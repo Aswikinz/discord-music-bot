@@ -1,0 +1,6 @@
+discord.py
+yt-dlp
+youtube-search-python
+pynacl
+advocate==1.0.0
+urllib3>=1.22,<2.0
